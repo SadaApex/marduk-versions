@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "mardukfinance": {
+      "updatePolicy": {
+        "minSupportedVersion": "1.0.3+93",
+        "latestVersion": "1.0.3+93",
+        "forceUpdate": true,
+        "platformOverrides": {
+          "ios": {
+            "minSupportedVersion": "1.2.0",
+            "latestVersion": "1.2.0",
+            "storeUrl": "https://apps.apple.com/us/app/marduk-finance/id6752122867"
+          },
+          "android": {
+            "minSupportedVersion": "1.2.1",
+            "latestVersion": "1.2.1",
+            "storeUrl": "https://play.google.com/store/apps/details?id=com.mardukfinance.mardukfinance"
+          }
+        }
+      },
+      "releaseNotes": {
+        "tr": "Yeni sürüm yayında! Performans iyileştirmeleri ve hata düzeltmeleri.",
+        "en": "New version available! Performance improvements and bug fixes."
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "projects": {
+    "mardukfinance": {
+      "enabled": true,
+      "fallbackToApiOnError": true,
+      "roles": {
+        "GUEST": { "fullAccess": false },
+        "USER": { "fullAccess": false },
+        "SILVER": { "fullAccess": false },
+        "GOLD": { "fullAccess": false },
+        "PLATINUM": { "fullAccess": false },
+        "PARTNER": { "fullAccess": false },
+        "ADMIN": { "fullAccess": false }
+      }
+    }
+  }
+}
